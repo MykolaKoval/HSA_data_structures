@@ -1,6 +1,6 @@
 # HSA data structures and algorithms
 
-<h3>Balanced BST<h3/>
+<h3>Balanced BST</h3>
 
 AVL tree implementation: ``com.course.hsa.bst.AVLTree``
 
@@ -12,7 +12,7 @@ Conclusions:
 - measurements demonstrate the time complexity as O(log(n)) for basic operations
 
 
-<h3>Counting Sort<h3/>
+<h3>Counting Sort</h3>
 
 Counting Sort implementation: ``com.course.hsa.sort.CountingSort``
 
